@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c1fb15d782405f5ea717.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProyectLab05Example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectLab05Example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectLab05Example-Debug-e026c47e13b5223b372a.json",
+					"name" : "ProyectLab05Example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectLab05Example_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectLab05Example_autogen-Debug-e0dd494b9d2d20dcb9af.json",
+					"name" : "ProyectLab05Example_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectLab05Example_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectLab05Example_autogen_timestamp_deps-Debug-0fd735b0ddc55aef0703.json",
+					"name" : "ProyectLab05Example_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lenovo/Documents/UNSA/TO/LAB/LAB05/QT/build-ProyectLab05Example-Desktop_x86_windows_msys_pe_64bit-Debug",
+		"source" : "C:/Users/lenovo/Documents/UNSA/TO/LAB/LAB05/QT/ProyectLab05Example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
